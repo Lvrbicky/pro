@@ -7,6 +7,7 @@ import java.awt.image.VolatileImage;
 
 public class Hrac {
 
+	
 	// velikost hrace - konstanty
 	public static final int SIRKA = 40;
 	public static final int VYSKA = 33;
